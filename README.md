@@ -8,8 +8,8 @@ Battery Charger: CV and CI controlled through PI, PD loops. Buck Converter contr
 
 ## Results
 
-![Switching Behavior](results/Switching Behavior.png)
-![Battery Charger](results/Battery Charger Oscilloscope.png)
+![Switching Behavior](results/Switching%20Behavior.png)
+![Battery Charger](results/Battery%20Charger%20Oscilloscope.png)
 
 ## How to run
 Requires MATLAB/simulink (tested on R2022b).
